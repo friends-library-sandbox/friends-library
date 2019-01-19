@@ -1,0 +1,43 @@
+name: Jane Doe
+slug: jane-doe
+gender: female
+description: TODO
+documents:
+  -
+    title: Sweet Book
+    slug: sweet-book
+    filename: Sweet_Book
+    description: TODO
+    tags:
+      - journal
+    editions:
+      -
+        type: modernized
+        formats:
+            -
+              type: pdf
+            -
+              type: epub
+            -
+              type: mobi
+
+        chapters:
+          -
+            number: 1
+          -
+            number: 2
+      -
+        type: original
+        formats:
+            -
+              type: pdf
+            -
+              type: epub
+            -
+              type: mobi
+
+        chapters:
+          -
+            number: 1
+          -
+            number: 2

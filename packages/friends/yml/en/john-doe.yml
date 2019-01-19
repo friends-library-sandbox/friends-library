@@ -1,0 +1,43 @@
+name: John Doe
+slug: john-doe
+gender: male
+description: TODO
+documents:
+  -
+    title: Rad Book
+    slug: rad-book
+    filename: Rad_Book
+    description: TODO
+    tags:
+      - journal
+    editions:
+      -
+        type: modernized
+        formats:
+            -
+              type: pdf
+            -
+              type: epub
+            -
+              type: mobi
+
+        chapters:
+          -
+            number: 1
+          -
+            number: 2
+      -
+        type: original
+        formats:
+            -
+              type: pdf
+            -
+              type: epub
+            -
+              type: mobi
+
+        chapters:
+          -
+            number: 1
+          -
+            number: 2
